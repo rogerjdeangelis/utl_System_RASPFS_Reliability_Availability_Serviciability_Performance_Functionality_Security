@@ -32,14 +32,14 @@ System RASPFS Reliability Availability Serviciability Performance Functionality 
 
       1. Reliability.
           There was a bug in SAS 9.3 where 'proc distinct' gave the wrong answer for very high
-          carinality.
+          cardinality.
              Workstation: I downloaded the fix from SAS and installed it on my workstation in 30 minutes
              Server:      Reported it a couple of months ago and it is still not fixed
 
       2. Availability.
           Workstation: 99.9%
           Server:      75% (Mostly due to the fact that you need an internet connection and scheduled
-          and non scheduled availability
+          and non scheduled availability also slow when system utilization is over 99%)
 
       3. Serviceability:
           Workstation: I added a second esata III SSD to my laptop in 2 minutes
@@ -52,7 +52,7 @@ System RASPFS Reliability Availability Serviciability Performance Functionality 
 
       5. Functionality
           Workstation: You have an operating system, R, Python, Ghostscript, Perl, C, Java...
-                       ODBC(excel access...), more disk space(Try getting 5TB ob the server)...
+                       ODBC(excel access...), more disk space(Try getting 5TB on the server)...
           Server:      Generally locked down most of the above not available.
 
       6.  Security
