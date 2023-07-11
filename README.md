@@ -3,6 +3,8 @@ System RASPFS Reliability Availability Serviciability Performance Functionality 
 
     System RASPFS Reliability Availability Serviciability Performance Functionality Security
 
+    Update Servers like AWS have excellent backup facilities, better than onedrive or other server backups.
+
     github
     https://tinyurl.com/y7eh56nb
     https://github.com/rogerjdeangelis/utl_System_RASPFS_Reliability_Availability_Serviciability_Performance_Functionality_Security
