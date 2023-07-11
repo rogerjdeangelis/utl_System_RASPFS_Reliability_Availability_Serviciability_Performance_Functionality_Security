@@ -1,5 +1,7 @@
 System RASPFS Reliability Availability Serviciability Performance Functionality Security
 
+Servers,like AWS, do have one advantage over local processing and that is better backups then locally administered backups, ie Iron Mountain. onedrive....
+
 github
 https://tinyurl.com/y7eh56nb
 https://github.com/rogerjdeangelis/utl_System_RASPFS_Reliability_Availability_Serviciability_Performance_Functionality_Security
